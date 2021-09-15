@@ -1,1 +1,4 @@
-2nd file content
+2nd file content - notes for lecture 9/15
+ git cat-file -p main^{tree}
+    100644 blob edf1842a7da705aef08070fac3ac02fb61cfe4d4    2nd_file
+    100644 blob e529c949ce51418727623403d6d00b39e3e83ef3    readme.md   
